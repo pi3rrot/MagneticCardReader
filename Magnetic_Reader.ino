@@ -1,3 +1,8 @@
+# Magnetic Card Reader 
+# This is for arduino board
+# It don't work at this state... but still in progress :)
+# Pi3rrot 08/08/2012
+
 #define STROBE_PIN 2
 #define DATA_PIN 3
 #define PC_PIN 6
